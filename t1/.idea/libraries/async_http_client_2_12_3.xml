@@ -1,0 +1,86 @@
+<component name="libraryTable">
+  <library name="async-http-client-2.12.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/async-http-client-2.12.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/async-http-client-netty-utils-2.12.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/auto-common-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/auto-service-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/auto-service-annotations-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/byte-buddy-1.11.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/checker-qual-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/error_prone_annotations-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/guava-31.0.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/jakarta.activation-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/jcommander-1.81.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/jtoml-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-buffer-4.1.68.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-codec-4.1.68.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-codec-http-4.1.67.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-codec-socks-4.1.67.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-common-4.1.68.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-handler-4.1.68.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-handler-proxy-4.1.67.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-reactive-streams-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-resolver-4.1.68.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-transport-4.1.68.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-transport-native-epoll-4.1.67.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-transport-native-kqueue-4.1.67.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/netty-transport-native-unix-common-4.1.67.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-api-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-api-metrics-1.6.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-context-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-exporter-logging-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-sdk-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-sdk-common-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-sdk-extension-autoconfigure-1.6.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-sdk-metrics-1.6.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-sdk-trace-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/opentelemetry-semconv-1.6.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/lib/slf4j-api-1.7.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-api-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-chrome-driver-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-chromium-driver-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-devtools-v85-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-devtools-v93-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-devtools-v94-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-devtools-v95-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-edge-driver-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-firefox-driver-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-firefox-xpi-driver-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-http-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-ie-driver-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-java-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-json-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-opera-driver-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-remote-driver-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-safari-driver-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-support-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-api-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-chrome-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-chromium-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-devtools-v85-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-devtools-v93-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-devtools-v94-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-devtools-v95-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-edge-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-firefox-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-firefox-xpi-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-http-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-ie-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-json-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-opera-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-remote-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-safari-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Java Biblioteke/selenium-support-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
